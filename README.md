@@ -3,7 +3,7 @@
 # Apps
 
 🏠 [Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
-    - 🖌️ [Articons](https://github.com/Arcticons-Team/Arcticons)
+  - 🖌️ [Articons](https://github.com/Arcticons-Team/Arcticons)
 
 ⌨️ [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 
