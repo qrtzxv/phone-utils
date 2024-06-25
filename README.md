@@ -32,7 +32,7 @@
 📁 [Material Files](https://www.videolan.org/vlc/)
 
 🖼️ [Aves Libre](https://github.com/deckerst/aves)
-    - 🧰 [Metadata Remover App For Android](https://github.com/Crazy-Marvin/MetadataRemover)
+  - 🧰 [Metadata Remover App For Android](https://github.com/Crazy-Marvin/MetadataRemover)
 
 🗺️ [OSM AND](https://github.com/osmandapp/Osmand)
 
