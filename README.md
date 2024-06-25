@@ -7,7 +7,7 @@
 
 - ⌨️ [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 
-- 👜 [F-Droid] 
+- 👜 [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
 - 👜 [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore)
 
 - 🌐 [Firefox](https://www.mozilla.org/en-US/firefox/) ➡️ [Mull](https://github.com/divested-mobile/mull-fenix)
