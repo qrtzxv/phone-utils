@@ -8,15 +8,21 @@
 ⌨️ [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 
 👜 [F-Droid Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
+
 👜 [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore)
 
 🌐 [Firefox](https://www.mozilla.org/en-US/firefox/) ➡️ [Mull](https://github.com/divested-mobile/mull-fenix)
+
 🌐 [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 
 🎥 [ReVanced](https://github.com/revanced)
+
 🎥 [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
 🎥🎵 [VLC](https://www.videolan.org/vlc/)
+
 🎵 [Vinyl Music Player](https://github.com/VinylMusicPlayer/VinylMusicPlayer)
+
 🎵 [Spotube](https://github.com/KRTirtho/spotube)
 
 📓 [Orgzly](https://github.com/orgzly/orgzly-android) ➡️ [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
