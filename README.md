@@ -36,7 +36,7 @@
 
 - 🗺️ [OSM AND](https://github.com/osmandapp/Osmand)
 
-- 🔥🧱 [NetGuard](https://github.com/M66B/NetGuard)
+- 🛡️ [NetGuard](https://github.com/M66B/NetGuard)
 
 - 🗨️ [Telegram](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
 
