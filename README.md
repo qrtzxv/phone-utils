@@ -1,5 +1,13 @@
 ## 📱 Android 📱
 
+# Repo
+
+[android-foss](https://github.com/offa/android-foss)
+
+[Alternative Front Ends](https://github.com/mendel5/alternative-front-ends)
+
+[Awesome Privacy](https://github.com/pluja/awesome-privacy)
+
 # Apps
 
 🏠 [Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
@@ -15,7 +23,10 @@
 
 🌐 [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 
+🌐 [Quacker](https://github.com/TheHCJ/Quacker)
+
 🎥 [ReVanced](https://github.com/revanced)
+  - [Revanced Manager](https://github.com/ReVanced/revanced-manager)
 
 🎥 [NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
@@ -24,6 +35,10 @@
 🎵 [Vinyl Music Player](https://github.com/VinylMusicPlayer/VinylMusicPlayer)
 
 🎵 [Spotube](https://github.com/KRTirtho/spotube)
+
+🎵 [xManager](https://github.com/Team-xManager/xManager)
+
+🎮 [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
 
 📓 [Orgzly](https://github.com/orgzly/orgzly-android) ➡️ [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 
@@ -55,3 +70,5 @@
 🕛 [Clock](https://f-droid.org/en/packages/com.best.deskclock/)
 
 🎮 [AetherSX2](https://github.com/AetherSX2/AetherSX2)
+
+📂 [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
