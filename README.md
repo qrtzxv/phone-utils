@@ -8,6 +8,8 @@
 
 [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 
+[Android FOSS Apps List](https://brainfucksec.github.io/android-foss-apps-list)
+
 # Apps
 
 🏠 [Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
