@@ -10,6 +10,9 @@
 
 [Android FOSS Apps List](https://brainfucksec.github.io/android-foss-apps-list)
 
+[Android App Compatiblity on de-Googled devices - Plexus](https://plexus.techlore.tech/) 
+
+
 # Apps
 
 🏠 [Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
@@ -29,6 +32,7 @@
 
 🎥 [ReVanced](https://github.com/revanced)
   - [Revanced Manager](https://github.com/ReVanced/revanced-manager)
+  - [ReVanced Installation Guide](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/?context=3) 
 
 🎥 [NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
@@ -74,3 +78,8 @@
 🎮 [AetherSX2](https://github.com/AetherSX2/AetherSX2)
 
 📂 [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
+
+📍 [FOSS-Alt for Google's FindMyDevice - FindMyDevice](https://gitlab.com/Nulide/findmydevice) 
+  - [FindMyDeviceServer](https://gitlab.com/Nulide/findmydeviceserver) 
+
+ 
