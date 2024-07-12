@@ -48,7 +48,7 @@
 
 📓 [Orgzly](https://github.com/orgzly/orgzly-android) ➡️ [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 
-🔒 [andOTP](https://github.com/andOTP/andOTP) ➡️ [Aegis Authenticator](https://github.com/beemdevelopment/Aegis)
+🔒 [Aegis Authenticator](https://github.com/beemdevelopment/Aegis)
 
 📖 [Librera PD](https://github.com/foobnix/LibreraReader)
 
