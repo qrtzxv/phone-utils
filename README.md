@@ -48,6 +48,8 @@
 
 📓 [Orgzly](https://github.com/orgzly/orgzly-android) ➡️ [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived)
 
+📓 [Local Material Notes](https://github.com/maelchiotti/LocalMaterialNotes)
+
 🔒 [Aegis Authenticator](https://github.com/beemdevelopment/Aegis)
 
 📖 [Librera PD](https://github.com/foobnix/LibreraReader)
